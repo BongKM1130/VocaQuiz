@@ -23,3 +23,78 @@ suppose|추정하다
 charge|요금
 expire|만료되다
 refund|환불
+promote|촉진하다
+revenue|수익
+opportunity|기회
+valid|유효한
+confidential|기밀의
+figure|숫자
+traffic|교통
+audience|청중
+occupy|차지하다
+approximately|대략
+complimentary|무료의
+outstanding|미해결의
+imperative|긴급한
+substantial|상당한
+decline|감소하다
+balance|균형
+account|계좌
+proceed|진행하다
+amenities|편의시설
+renowned|유명한
+preserve|보존하다
+simply|단순하게
+presence|존재
+laboratory|실험실
+effective|효과적인
+enhance|향상시키다
+insurance|보험
+spacious|넓은
+ingredient|재료
+withdraw|철회하다
+banquet|연회
+experiment|실험
+specific|구체적인
+specialize|전문화하다
+affect|영향을 미치다
+equip|장비를 제공하다
+reimbursement|환급
+premises|부지
+renovate|개조하다
+versatile|다재다능한
+implement|실행하다
+informed|정보에 기반한
+commitment|약속
+direct|직접적인
+facilitate|용이하게 하다
+commission|수수료
+cover|덮다
+encourage|격려하다
+persuade|설득하다
+accompany|동반하다
+candidate|후보자
+renew|갱신하다
+launch|출시하다
+reliable|믿을 수 있는
+inform|알리다
+contribute|기여하다
+strategy|전략
+motivate|동기부여하다
+consider|고려하다
+remind|상기시키다
+suitable|적합한
+beverage|음료
+portable|휴대할 수 있는
+essential|필수적인
+consent|동의
+tentative|잠정적인
+respective|각각의
+arrange|정리하다
+associate|관련시키다
+publicity|홍보
+instructor|강사
+contractor|계약자
+relevant|관련 있는
+weekly|매주 열리는
+imply|암시하다
