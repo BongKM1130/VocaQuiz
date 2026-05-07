@@ -91,7 +91,7 @@ public class QuizFrame extends JFrame {
 		contentPane.add(topPanel, BorderLayout.NORTH);
 
 		// 제목
-		JLabel lblTitle = new JLabel("📘 VocaQuiz");
+		JLabel lblTitle = new JLabel("VocaQuiz");
 		lblTitle.setHorizontalAlignment(SwingConstants.CENTER);
 		lblTitle.setFont(
 			new Font("맑은 고딕", Font.BOLD, 32)
@@ -163,7 +163,6 @@ public class QuizFrame extends JFrame {
 		lblResult.setFont(new Font("맑은 고딕", Font.BOLD, 16));
 		lblScore = new JLabel("점수 : 0 / 0");
 		lblScore.setFont(new Font("맑은 고딕", Font.BOLD, 16));
-		lblScore.setText("🎯 점수 : 0 / 0");
 		
 
 		btnNext = new JButton("다음 문제");
