@@ -1,0 +1,25 @@
+executive|경영진
+inventory|재고
+feature|특징
+acknowledge|인정하다
+voucher|상품권
+estimate|견적서
+resume|이력서
+issue|문제
+property|재산
+eligible|자격이 있는
+initiative|주도권
+culinary|요리의
+extensive|광범위한
+deposit|보증금
+retail|소매
+affordable|가격이 알맞은
+grant|승인하다
+significantly|상당히
+reserve|예약하다
+application|신청서
+address|주소
+suppose|추정하다
+charge|요금
+expire|만료되다
+refund|환불
