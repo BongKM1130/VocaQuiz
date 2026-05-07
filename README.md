@@ -4,7 +4,7 @@
 영어공부와 코딩을 동시에 잘하고 싶어서 만들었습니다.
 
 data/words.txt 수정을 통해 영단어 추가 가능.
-
+영단어 출처 : https://www.dokjongban.com/voca-book-pdf/
 **주요기능**
 - 랜덤 단어 문제 출제
 - 5지선다 퀴즈
